@@ -1,5 +1,5 @@
 # Manually Curated Microdeletion and Microduplication Syndromes
-**Download Instructions**: *Click on the File you wish to fiew and select "View Raw" to start the download.*
+**Download Instructions**: *Click on the File you wish to view and select "View Raw" to start the download.*
 - Table 1: Microdeletion and Microduplication Syndromes
    - *We identified 192 recurrent and non-recurrent Microdeletion and Microduplication Syndromes which were divided up into 320 individual CNV intervals and 141 non-overlapping CNV regions. Of these intervals, 25% (n=80) had consensus coordinates from ClinGen and/or DECIPHER. Coordinates for the remaining CNV intervals (n=240) were determined manually by leveraging over 2500 patient CNVs, defined SRO(s) or minimal region(s) from the medical literature.*
 - Additional File 1: Supplementary Tables
