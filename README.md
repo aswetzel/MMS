@@ -11,13 +11,11 @@
 - **Datafile 2**: Reference List for Microdeletion and Microduplication Syndromes
 
 
-**Citation**
-If you use the software, please cite: TBD
-
 
 **Materials & Methods**
 
 A non-redundant list of microduplication and microdeletion syndromes (MMS) was obtained from the following databases and publications: Clinical Genome Resource (ClinGen; www.clinicalgenome.org) [1] via UCSC's Table Browser (iscaCuratedPathogenic; n= 61) [2, 3], DatabasE of genomiC varIation and Phenotype in Humans using Ensembl Resources (DECIPHER; https://decipher.sanger.ac.uk/; n= 66) [4], Online Mendelian Inheritance in Man (OMIM; www.omim.org) [5] via the Gene2Map file (keywords: contiguous gene, chromosome (exclude: open reading frame), deletion, duplication, triplication, and quadruplication; n=115), Nevado et al. [6] (n=99), Table 2 of Bentacur [7] (n=39), Supplemental Tables 1 and 2 of Kaminsky et al. [8] (n=41), Additional File 5 of Marcinkowska et al. [9] (n=20) and Table 1 of Wiese et al. [10] (n=193). The non-redundant list was curated to exclude disorders which were only described in a single patient (e.g. 3p11.2‐p12.1 [11, 12]) or family and disorders which are not asssociated with congenital disease (e.g. 8p11 myeloproliferative syndrome; OMIM 613523). CNV disorders were retained even if only the duplication or deletion has been observed or assoicated with human disease. When possible, coordinates for the CNV disorders were obtained from either DECIPHER or ClinGen (accessed August 2021). For all remaining MMS without consensus coordiantes, CNV coordinates for each reported patient were identified as were the coordiantes for any defined shortest region of overlaps (SRO) or minimal regions (Supplementary Table 4). All coordinates were converted from their initial assembly into hg19 coordinates using UCSC's Liftover Tool [13]. These patient and minimal regions were utilized to define the representative CNV interval and when applicable minimal region(s) of overlap. Some MMS were divided into multiple interval regions to account for: recurrent CNVs with multiple breakpoints (e.g. 15q11.2 BP1-2 vs 15q11.2 BP1-3 vs 15q11.2 BP2-3), size differences due to the presence of segmental duplications within a CNV call (1q21.1 TAR Susceptibility Locus), and to account for mutliple minimal CNV regions (e.g. 1q24-q25).
+
 
 
 **Literature Cited**
@@ -35,3 +33,7 @@ A non-redundant list of microduplication and microdeletion syndromes (MMS) was o
 11.	Gat-Yablonski G, Frumkin-Ben David R, Bar M, Potievsky O, Phillip M, Lazar L: Homozygous microdeletion of the POU1F1, CHMP2B, and VGLL3 genes in chromosome 3--a novel syndrome. American journal of medical genetics Part A 2011, 155A(9):2242-2246 https://doi.org/10.1002/ajmg.a.34136.
 12.	Nevado J, Mergener R, palomares bralo M, Souza K, Vallespin E, Cruz R, Martinez-Glez V, Mori M, Santos F, García-Miñaur S et al: New microdeletion and microduplication syndromes: A comprehensive review. Genetics and molecular biology 2014, 37:210-219 https://doi.org/10.1590/S1415-47572014000200007.
 13.	Hinrichs AS, Karolchik D, Baertsch R, Barber GP, Bejerano G, Clawson H, Diekhans M, Furey TS, Harte RA, Hsu F et al: The UCSC Genome Browser Database: update 2006. Nucleic Acids Res 2006, 34(Database issue):D590-598 https://doi.org/10.1093/nar/gkj144.
+
+
+# Citation
+If you use this MMS list, please cite: TBD
