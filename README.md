@@ -1,13 +1,14 @@
 # Manually Curated Microdeletion and Microduplication Syndromes
 **Download Instructions**: *Click on the File you wish to view and select "View Raw" to start the download.*
-- Dataset 1: Microdeletion and Microduplication Syndromes
+- **Dataset 1**: Microdeletion and Microduplication Syndromes
    - *We identified 192 recurrent and non-recurrent Microdeletion and Microduplication Syndromes which were divided up into 320 individual CNV intervals and 141 non-overlapping CNV regions. Of these intervals, 25% (n=80) had consensus coordinates from ClinGen and/or DECIPHER. Coordinates for the remaining CNV intervals (n=240) were determined manually by leveraging over 2500 patient CNVs, defined SRO(s) or minimal region(s) from the medical literature.*
-- Dataset 2: Reported Patient CNVs. *A list of patient CNVs, with original and hg19 coordinates, which were reported in the medical literature identified during the creation of this MMS list. The publication source, associated MMS, and subgroup (if applicable) are also recorded. This table is formatted so that the first four columns comply with BED format.*
-- Dataset 3: hg19 BED File.
-- Dataset 4: GRCh38 BED File.
-- Datafile 1: CNV Coordinate Determination by Chromosome.
+- **Dataset 2**: Reported Patient CNVs. *A list of patient CNVs, with original and hg19 coordinates, which were reported in the medical literature identified during the creation of this MMS list. The publication source, associated MMS, and subgroup (if applicable) are also recorded. This table is formatted so that the first four columns comply with BED format.*
+- **Dataset 3**: hg19 BED File.
+- **Dataset 4**: GRCh38 BED File.
+
+- **Datafile 1**: CNV Coordinate Determination by Chromosome.
    - *This document contains a list of all CNVs which did not have consensus coordinates available from ClinGen or DECIPHER. For each CNV, one or more figures are included which depict the coordinates of reported patients with this CNV as well as the coordinates for each SRO, minimal region, or whole region which were defined and included.*
-- Datafile 2: Reference List for Microdeletion and Microduplication Syndromes
+- **Datafile 2**: Reference List for Microdeletion and Microduplication Syndromes
 
 
 
