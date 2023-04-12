@@ -32,4 +32,5 @@ A non-redundant list of microduplication and microdeletion syndromes (MMS) was o
 
 
 # Citation
-If you use this MMS list, please cite: TBD
+If you use this MMS list, please cite: Wetzel, A.S., Darbro, B.W. A comprehensive list of human microdeletion and microduplication syndromes. BMC Genom Data 23, 82 (2022). https://doi.org/10.1186/s12863-022-01093-3
+[![DOI](https://zenodo.org/badge/452867602.svg)](https://zenodo.org/badge/latestdoi/452867602)
